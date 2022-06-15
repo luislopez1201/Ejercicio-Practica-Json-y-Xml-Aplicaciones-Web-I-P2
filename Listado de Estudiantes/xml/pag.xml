@@ -1,0 +1,117 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<listado>
+	<titulo>Datos de Estudiantes</titulo>
+	<alumno id="1">
+		<nombre>Luis</nombre>
+		<apellido>Lopez</apellido>
+		<cedula>1314745835</cedula>
+		<semestre>Quinto semestre</semestre>
+		<paralelo>Paralelo "B"</paralelo>
+		<direccion>Los Esteros</direccion>
+		<telefono>0969872522</telefono>
+		<correo>luislopez_09@outlook.es</correo>
+	</alumno>
+
+	<alumno id="2">
+		<nombre>Carlos</nombre>
+		<apellido>Santana</apellido>
+		<cedula>1319862896</cedula>
+		<semestre>Cuarto semestre</semestre>
+		<paralelo>Paralelo "A"</paralelo>
+		<direccion>Montecristi</direccion>
+		<telefono>0987596214</telefono>
+		<correo>carlos.89@gmail.com</correo>
+	</alumno>
+
+	<alumno id="3">
+		<nombre>Cristina</nombre>
+		<apellido>Parrales</apellido>
+		<cedula>1317144925</cedula>
+		<semestre>Quinto semestre</semestre>
+		<paralelo>Paralelo "B"</paralelo>
+		<direccion>La Aurora</direccion>
+		<telefono>0963698741</telefono>
+		<correo>cris-parr.65@gmail.com</correo>
+	</alumno>
+
+	<alumno id="4">
+		<nombre>Yandri</nombre>
+		<apellido>Macias</apellido>
+		<cedula>1314584986</cedula>
+		<semestre>Cuarto semestre</semestre>
+		<paralelo>Paralelo "B"</paralelo>
+		<direccion>Colorado</direccion>
+		<telefono>0968587848</telefono>
+		<correo>yan_macias@gmail.com</correo>
+	</alumno>
+
+	<alumno id="5">
+		<nombre>Julio</nombre>
+		<apellido>Delgado</apellido>
+		<cedula>1317144146</cedula>
+		<semestre>Primer semestre</semestre>
+		<paralelo>Paralelo "A"</paralelo>
+		<direccion>La Aurora</direccion>
+		<telefono>0968581680</telefono>
+		<correo>jul-delg@gmail.com</correo>
+	</alumno>
+
+	<alumno id="6">
+		<nombre>Britney</nombre>
+		<apellido>Lopez</apellido>
+		<cedula>1317121986</cedula>
+		<semestre>Quinto semestre</semestre>
+		<paralelo>Paralelo "B"</paralelo>
+		<direccion>Cuba</direccion>
+		<telefono>0994523545</telefono>
+		<correo>brit-lopez.43@gmail.com</correo>
+	</alumno>
+
+	<alumno id="7">
+		<nombre>Odalis</nombre>
+		<apellido>Burgos</apellido>
+		<cedula>1317143586</cedula>
+		<semestre>Quinto semestre</semestre>
+		<paralelo>Paralelo "C"</paralelo>
+		<direccion>El Palmar</direccion>
+		<telefono>0912458879</telefono>
+		<correo>odalis-burg@gmail.com</correo>
+	</alumno>
+
+	<alumno id="8">
+		<nombre>Milena</nombre>
+		<apellido>Bravo</apellido>
+		<cedula>13171447894</cedula>
+		<semestre>Quinto semestre</semestre>
+		<paralelo>Paralelo "A"</paralelo>
+		<direccion>Los Geranios</direccion>
+		<telefono>0987569423</telefono>
+		<correo>milu-brv@gmail.com</correo>
+	</alumno>
+
+	<alumno id="9">
+		<nombre>Hernan</nombre>
+		<apellido>Velez</apellido>
+		<cedula>1317144236</cedula>
+		<semestre>Sexto semestre</semestre>
+		<paralelo>Paralelo "A"</paralelo>
+		<direccion>Las Cumbres</direccion>
+		<telefono>0987469621</telefono>
+		<correo>hernan-velez@gmail.com</correo>
+	</alumno>
+
+	<alumno id="10">
+		<nombre>Ana</nombre>
+		<apellido>Mero</apellido>
+		<cedula>1317578686</cedula>
+		<semestre>Segundo semestre</semestre>
+		<paralelo>Paralelo "A"</paralelo>
+		<direccion>20 de Mayo</direccion>
+		<telefono>0998305687</telefono>
+		<correo>ana-mero@gmail.com</correo>
+	</alumno>
+</listado>
+
+
+
+
